@@ -1,0 +1,62 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega48PA"</DEVICE>
+ <WORKING_DIR>C:\avr-asm\mega48_lense\mega_lense\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m48padef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\avr-asm\mega48_lense\mega_lense\Debug\mega_lense.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>mega_lense.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>mega_lense.map</FILE>
+  <FILE>mega_lense.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <input_buffer><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>110</LINE></input_buffer>
+  <RESET><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>237</LINE></RESET>
+  <TIMER_FOCUS_COMPA><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>143</LINE></TIMER_FOCUS_COMPA>
+  <TIMER_ZOOM_COMPA><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>133</LINE></TIMER_ZOOM_COMPA>
+  <UART_RX_COMPLETE><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>153</LINE></UART_RX_COMPLETE>
+  <focus_near><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>119</LINE></focus_near>
+  <zoom_tele><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>120</LINE></zoom_tele>
+  <zoom_wide><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>121</LINE></zoom_wide>
+  <focus_far><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>122</LINE></focus_far>
+  <focus_near_addr><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>124</LINE></focus_near_addr>
+  <focus_near_act><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>362</LINE></focus_near_act>
+  <zoom_tele_addr><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>125</LINE></zoom_tele_addr>
+  <zoom_tele_act><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>350</LINE></zoom_tele_act>
+  <zoom_wide_addr><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>126</LINE></zoom_wide_addr>
+  <zoom_wide_act><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>354</LINE></zoom_wide_act>
+  <focus_far_addr><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>127</LINE></focus_far_addr>
+  <focus_far_act><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>358</LINE></focus_far_act>
+  <exit_zoom_compa><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>139</LINE></exit_zoom_compa>
+  <exit_focus_compa><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>149</LINE></exit_focus_compa>
+  <TIMER_Focus_Init><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>163</LINE></TIMER_Focus_Init>
+  <TIMER_Focus_Start><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>176</LINE></TIMER_Focus_Start>
+  <TIMER_Focus_Stop><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>185</LINE></TIMER_Focus_Stop>
+  <TIMER_Zoom_Init><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>190</LINE></TIMER_Zoom_Init>
+  <TIMER_Zoom_Start><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>201</LINE></TIMER_Zoom_Start>
+  <TIMER_Zoom_Stop><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>210</LINE></TIMER_Zoom_Stop>
+  <USART_Init><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>215</LINE></USART_Init>
+  <DDR_Init><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>226</LINE></DDR_Init>
+  <Flush_SRAM><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>259</LINE></Flush_SRAM>
+  <Flush_Regs><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>269</LINE></Flush_Regs>
+  <forever><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>295</LINE></forever>
+  <start_compare><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>304</LINE></start_compare>
+  <compare_select><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>317</LINE></compare_select>
+  <command_accepted><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>332</LINE></command_accepted>
+  <reset_ident><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>326</LINE></reset_ident>
+  <load_address><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>341</LINE></load_address>
+  <loop_addr><FILE>C:\avr-asm\mega48_lense\mega_lense\main.asm</FILE><LINE>337</LINE></loop_addr>
+ </LABELS>
+</ASSEMBLER_INFO>
